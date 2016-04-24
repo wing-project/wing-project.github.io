@@ -341,13 +341,13 @@ ul, ol
 	float: left;
 	height: 30px;
 	margin-left: 10px;
-	padding-top: 4px;
-	width: 240px;
+	padding-top: 0px;
+	width: 260px;
 }
 .navcontainer
 {
 	background: #000;
-	height: 55px;
+	height: 60px;
 	width: 100%;
 }
 .flex-item h4
@@ -369,7 +369,7 @@ ul, ol
 	border: none;
 	float: right;
 	list-style: none;
-	margin-top: 0px;
+	margin-top: 5px;
 }
 .navigation a
 {
@@ -386,7 +386,7 @@ ul, ol
 .navholder
 {
 	margin: 0px auto;
-	padding-top: 10px;
+	padding-top: 15px;
 	text-align: center;
 	width: 60%;
 }
